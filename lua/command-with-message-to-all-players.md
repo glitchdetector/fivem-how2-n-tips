@@ -23,5 +23,5 @@ RegisterCommand("announce", function(source, args)
   else
     -- No message was sent, should we tell them they didn't?
   end
-end)
+end, adminOnly)
 ```
