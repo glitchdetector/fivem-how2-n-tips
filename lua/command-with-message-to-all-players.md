@@ -4,6 +4,7 @@ You want to create command (f.ex `/announce <message>`) that sends a message to 
 FiveM provides a command handler (`RegisterCommand`) and the default chat has events you can trigger for this exact purpose (`chat:addMessage`).
 
 ```RegisterCommand(commandName, handler, restricted)``` https://runtime.fivem.net/doc/natives/?_0x5FA79B0F
+
 ```chat:addMessage {template, color, multiline, args}``` https://docs.fivem.net/docs/resources/chat/events/chat-addMessage/
 
 # Solution
