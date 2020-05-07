@@ -24,3 +24,4 @@ RegisterCommand("announce", function(source, args)
     -- No message was sent, should we tell them they didn't?
   end
 end)
+```
