@@ -1,7 +1,7 @@
 # Problem
 You have two coordinates; `playerPos` and `targetPos`, and you want to get the distance between the two
 
-The simple solution is `GetDistanceBetweenCoords` or `Vdist`/`Vdist2`, but **DO NOT USE THESE, THEY ARE VERY SLOW**
+The simple solution is `Ge*Distanc*Betwee*Coord*` or `Vdis*`/`Vdis*2`, but **DO NOT USE THESE, THEY ARE VERY SLOW**
 
 In FiveM's Lua implementation, you can use `#(pos1 - pos2)` to get the distance between the two coordinates.
 
